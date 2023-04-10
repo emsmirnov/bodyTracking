@@ -15,7 +15,7 @@
     <rotationRate_x>0,1</rotationRate_x>
     <rotationRate_y>0,1</rotationRate_y>
     <rotationRate_z>0,1</rotationRate_z>
-    <config_timer_delay>5</config_timer_delay>
+    <config_timer_delay>3</config_timer_delay>
     <only_horizontal>false</only_horizontal>
     <is_static>false</is_static>
     <min_y>-14</min_y>
