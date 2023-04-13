@@ -13,5 +13,5 @@
     <cube0_isMain>true</cube0_isMain>
     <cube1_isMain>true</cube1_isMain>
     <cube2_isMain>false</cube2_isMain>
-    <magnetic_heading_offset>45</magnetic_heading_offset>
+    <magnetic_heading_offset>0</magnetic_heading_offset>
 </appParams>
