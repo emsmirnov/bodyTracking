@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <appParams>
     <config_timer_delay>4</config_timer_delay>
-    <cube0_x>-10</cube0_x>
-    <cube0_y>0</cube0_y>
-    <cube0_z>-29</cube0_z>
-    <cube1_x>-52</cube1_x>
-    <cube1_y>-32</cube1_y>
-    <cube1_z>-90</cube1_z>
-    <cube2_x>-52</cube2_x>
-    <cube2_y>0</cube2_y>
-    <cube2_z>-28</cube2_z>
+    <cube0_yOffset>-10</cube0_yOffset>
+    <cube0_yAngle>0</cube0_yAngle>
+    <cube0_dist>-29</cube0_dist>
+    <cube1_yOffset>-52</cube1_yOffset>
+    <cube1_yAngle>-32</cube1_yAngle>
+    <cube1_dist>-90</cube1_dist>
+    <cube2_yOffset>-52</cube2_yOffset>
+    <cube2_yAngle>0</cube2_yAngle>
+    <cube2_dist>-28</cube2_dist>
     <cube0_isMain>true</cube0_isMain>
     <cube1_isMain>true</cube1_isMain>
     <cube2_isMain>false</cube2_isMain>
