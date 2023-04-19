@@ -16,8 +16,8 @@
     <cube0_colScale>10</cube0_colScale>
     <cube1_colScale>12</cube1_colScale>
     <cube2_colScale>15</cube2_colScale>
-    <cube0_charScale>0.5</cube0_charScale>
-    <cube1_charScale>0.5</cube1_charScale>
-    <cube2_charScale>0.5</cube2_charScale>
+    <cube0_charScale>1</cube0_charScale>
+    <cube1_charScale>1</cube1_charScale>
+    <cube2_charScale>1</cube2_charScale>
     <magnetic_heading_offset>0</magnetic_heading_offset>
 </appParams>
