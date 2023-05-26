@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <appParams>
     <config_timer_delay>4</config_timer_delay>
-    <cube0_yOffset>-10</cube0_yOffset>
+    <cube0_yOffset>-5</cube0_yOffset>
     <cube0_yAngle>0</cube0_yAngle>
     <cube0_dist>-15</cube0_dist>
     <cube1_yOffset>-52</cube1_yOffset>
@@ -13,7 +13,7 @@
     <cube0_isMain>true</cube0_isMain>
     <cube1_isMain>true</cube1_isMain>
     <cube2_isMain>false</cube2_isMain>
-    <cube0_colScale>10</cube0_colScale>
+    <cube0_colScale>5</cube0_colScale>
     <cube1_colScale>12</cube1_colScale>
     <cube2_colScale>15</cube2_colScale>
     <cube0_charScale>1</cube0_charScale>
