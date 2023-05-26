@@ -3,7 +3,7 @@
     <config_timer_delay>4</config_timer_delay>
     <cube0_yOffset>-10</cube0_yOffset>
     <cube0_yAngle>0</cube0_yAngle>
-    <cube0_dist>-29</cube0_dist>
+    <cube0_dist>-15</cube0_dist>
     <cube1_yOffset>-52</cube1_yOffset>
     <cube1_yAngle>-32</cube1_yAngle>
     <cube1_dist>-90</cube1_dist>
